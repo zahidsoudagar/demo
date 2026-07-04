@@ -1,2 +1,2 @@
 # demo
-This is the testing repository created by Zahid.
+This is the testing repository created by Zahid Soudagar.
